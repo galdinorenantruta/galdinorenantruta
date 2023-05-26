@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently looking for my First job as developer fron-end;
-- 🌱 I’m currently learning ReactJs;
+- 🔭 I am a Frelancer web developer;
+- 🌱 All my dedication and love is focused in Reactjs;
 - 📫 contact me: galdinotrutarenan@gmail.com;
 
 <div align="center">
