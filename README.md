@@ -2,7 +2,7 @@
 
 
 - 🔭 I am a Full Stack Developer;
-- 🌱 All my dedication and love is focused in Reactjs;
+- 🌱 All my dedication and love is focused in Javascript;
 - 📫 contact me: galdinotrutarenan@gmail.com;
 
 <div align="center">
