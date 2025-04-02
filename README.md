@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-
 - 🔭 I am a Full Stack Developer;
 - 🌱 All my dedication and love is focused in Javascript;
 - 📫 contact me: galdinotrutarenan@gmail.com;
